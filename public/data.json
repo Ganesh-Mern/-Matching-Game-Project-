@@ -1,0 +1,26 @@
+[
+    {
+      "image": "apple",
+      "match": false
+    },
+    {
+      "image": "banana",
+      "match": false
+    },
+    {
+      "image": "grapes",
+      "match": false
+    },
+    {
+      "image": "watermelon",
+      "match": false
+    },
+    {
+      "image": "strawberry",
+      "match": false
+    },
+    {
+      "image": "guava",
+      "match": false
+    }
+  ]

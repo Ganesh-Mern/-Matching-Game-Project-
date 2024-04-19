@@ -1,0 +1,14 @@
+[
+    { "id": 1, "symbol": "🍌", "container": 1 },
+    { "id": 2, "symbol": "🍉", "container": 1 },
+    { "id": 3, "symbol": "🍎", "container": 1 },
+    { "id": 4, "symbol": "🍇", "container": 1 },
+    { "id": 5, "symbol": "🍓", "container": 1 },
+    { "id": 6, "symbol": "🍋", "container": 1 },
+    { "id": 7, "symbol": "🍌", "container": 2 },
+    { "id": 8, "symbol": "🍉", "container": 2 },
+    { "id": 9, "symbol": "🍎", "container": 2 },
+    { "id": 10, "symbol": "🍇", "container": 2 },
+    { "id": 11, "symbol": "🍓", "container": 2 },
+    { "id": 12, "symbol": "🍋", "container": 2 }
+  ]

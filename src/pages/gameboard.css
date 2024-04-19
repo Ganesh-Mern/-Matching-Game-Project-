@@ -1,0 +1,7 @@
+.gameboard{
+    width: 100vw;
+    height: 100vh;
+    background: url("../images/back.png");
+    background-position: center;
+    background-size: cover;
+}

@@ -1,0 +1,54 @@
+.card{
+    position: relative
+    /* display: ; */
+}
+.card .front{
+    transform: rotateY(90deg);
+    position: absolute;
+    margin: 20px 20px;
+    /* background: black; */
+    width: 120.52px;
+height: 150px;
+/* top: 252px; */
+
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+    font-weight: 600;
+    color: black;
+    background: rgba(255, 137, 111, 1);
+}
+.flipped .front{
+    transform: rotateY(0deg);
+    /* opacity: 0; */
+    /* position: absolute; */
+    
+}
+.card .back{
+    transition: all ease-in 0.2s;
+    transition-delay: 0.2s;
+    width: 100%;
+    height: 100%;
+}
+.flipped .back{
+    transform: rotateY(90deg);
+    transition-delay:0 ;
+}
+
+.back .svg{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.svg svg{
+    width: 120%;
+    height: 100%;
+}
+.matched {
+    opacity: 0;
+  }

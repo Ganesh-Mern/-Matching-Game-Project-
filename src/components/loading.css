@@ -1,0 +1,13 @@
+.loading{
+    width: 100%;
+    color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 4rem;
+}
+.banana{
+    width: 150px;
+    position: relative;
+    left: -85px;
+}

@@ -1,0 +1,11 @@
+.select{
+    display: flex;
+    padding-left:200px ;
+}
+.select h1{
+    position: absolute;
+    top: 165px;
+    left:490px;
+    color:  rgba(17, 174, 198, 1);
+    ;
+}

@@ -1,0 +1,16 @@
+.left-arrow{
+    /* position: absolute; */
+    width: 150px;
+    height: 150px;
+    /* border: 1px solid red; */
+    position: absolute;
+top: 45px;
+left: 43px;
+gap: 0px;
+opacity: 0px;
+
+}
+.arrow{
+    width: 100%;
+    height: 100%;
+}
